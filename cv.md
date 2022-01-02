@@ -1,4 +1,4 @@
-# __[rsschool-cv](https://dmitry-protsenko.github.io/rsschool-cv/)__
+# __[rsschool-cv](https://dmitry-protsenko.github.io/rsschool-cv/cv)__
 
 # __Dmitry Protsenko__
 ![photo](/images/photo.jpg)
