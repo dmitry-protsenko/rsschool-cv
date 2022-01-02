@@ -1,6 +1,7 @@
 # __[rsschool-cv](https://dmitry-protsenko.github.io/rsschool-cv/)__
 
 # __Dmitry Protsenko__
+![photo](/images/photo.jpg)
 
 ## __Contacts__
 - __Location:__ Omsk, Russia
@@ -16,7 +17,8 @@ I want to acquire new programming skills.
 ## __Skills__
 - HTML (Basics)
 - CSS (Basics)
-- Git (Basics)
+- Git, GitHub
+- Webstorm
 
 ## __Code Example__
 ``` html
@@ -35,9 +37,9 @@ I want to acquire new programming skills.
 ```
 
 ## __Experience__
-- There is no such experience
+https://dmitry-protsenko.github.io/rsschool-cv/
 ## __Education__ 
-- __University:__ Pavlodar State Univercity, automation engineer
+- __University:__ Pavlodar State University, automation engineer
 - __Courses:__
     - [HTML basics](https://ru.code-basics.com/languages/html)
     - [CSS basics](https://ru.code-basics.com/languages/css)
